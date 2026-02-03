@@ -18,7 +18,7 @@ int main() {
         printf("5. Exponentiation\n");
         printf("6. Square Root\n");
         printf("7. Modulus\n");
-        printf("Enter your choice: ");
+        printf("Enter your choice buddy!: ");
         scanf("%d", &choice);
 
         // Perform the operation based on user choice
